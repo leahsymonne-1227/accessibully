@@ -19,9 +19,9 @@ Open the local address printed by Vite in your browser. To create a production b
 - A compact color and typography specimen.
 - A scan-result preview image exported from the design.
 - Responsive section navigation, keyboard focus styling, and reduced-motion support.
+- A VS Code extension for quick accessibility checks while editing HTML, JSX, TSX, CSS, and SCSS.
 
-The Chrome Web Store link currently opens a search for Accessibul11y. The extension listing is still in progress.
-
+The Chrome Web Store link currently opens a search for Accessibul11y.
 ## Accessibility
 
 The page uses semantic landmarks, a skip link, keyboard-visible focus, descriptive image text, responsive layouts, and a reduced-motion preference. The design's main text and button colors were checked against WCAG contrast thresholds. This is an initial implementation review, not a claim of full WCAG conformance; assistive-technology and browser testing remains important as the page and extension evolve.
@@ -34,3 +34,7 @@ Early project / design prototype. See [CHANGELOG.md](CHANGELOG.md) for updates.
 
 No software license is included. The project is publicly viewable on GitHub, but no general permission to reuse, modify, or distribute the code is granted. Copyright does not protect the underlying idea itself; it protects eligible original expression such as code and artwork. Please contact the author before reusing project materials.
 Accessibility Scanner
+
+### added 
+- turned code into a VS Code accessibility scanner extension
+
